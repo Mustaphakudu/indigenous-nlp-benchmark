@@ -6,10 +6,10 @@
 - **Submission Date:** September 2026
 
 ## Group Members
-1. Alamin Ha - [Student ID] - [Email]
-2. [Member 2 Name] - [Student ID] - [Email]
-3. [Member 3 Name] - [Student ID] - [Email]
-4. [Member 4 Name] - [Student ID] - [Email]
+1. Alamin HaSSAN SAIDU- [u22/fns/csc/1003] - [alaminha2030@gmail.com]
+2. [umAR FARUK YUSUF] - [U22/FNS/CSC/1057] 
+3. [AMINA MUHAMMAD] - U22/FNS/CSC/1119
+4. [ZAKARIYA ABDULLAHI} - U22/FNS/CSC/1287
 
 ## Project Overview
 This project develops an Indigenous Language AI Benchmark for the Nupe language, focusing on:
